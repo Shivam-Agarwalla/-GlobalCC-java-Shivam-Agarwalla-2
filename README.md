@@ -1,3 +1,3 @@
-# -GlobalCC-java-Shivam-Agarwalla-2
+# PRACTICE
 
 Hello!!!
